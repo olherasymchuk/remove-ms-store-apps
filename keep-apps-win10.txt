@@ -1,0 +1,6 @@
+Microsoft.HEIFImageExtension
+Microsoft.WebMediaExtensions
+Microsoft.WebpImageExtension
+Microsoft.Windows.Photos
+Microsoft.WindowsCalculator
+Microsoft.WindowsStore

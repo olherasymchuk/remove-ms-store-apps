@@ -1,0 +1,10 @@
+Microsoft.HEIFImageExtension
+Microsoft.Paint
+Microsoft.ScreenSketch
+Microsoft.SecHealthUI
+Microsoft.WebMediaExtensions
+Microsoft.WebpImageExtension
+Microsoft.Windows.Photos
+Microsoft.WindowsCalculator
+Microsoft.WindowsNotepad
+Microsoft.WindowsStore
